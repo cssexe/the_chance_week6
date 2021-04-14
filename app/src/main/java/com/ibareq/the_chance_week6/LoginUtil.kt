@@ -2,7 +2,7 @@ package com.ibareq.the_chance_week6
 
 object LoginUtil {
 
-    fun login(email: String, password: String){
+    fun login(email: String, password: Int){
         TODO("Not yet implemented")
     }
 
